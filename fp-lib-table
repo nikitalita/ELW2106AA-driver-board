@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "SN74LVC3G07DCUT")(type "KiCad")(uri "${KIPRJMOD}/lib/SN74LVC3G07DCUT")(options "")(descr ""))
+  (lib (name "ELW2106AA")(type "KiCad")(uri "${KIPRJMOD}/lib/elw2106aa")(options "")(descr ""))
+  (lib (name "custom")(type "KiCad")(uri "${KIPRJMOD}/lib/custom")(options "")(descr ""))
+)

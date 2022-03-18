@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "SN74LVC3G07DCUT")(type "KiCad")(uri "${KIPRJMOD}/lib/SN74LVC3G07DCUT/SN74LVC3G07DCUT.kicad_sym")(options "")(descr ""))
+  (lib (name "elw2106aa")(type "KiCad")(uri "${KIPRJMOD}/lib/ELW2106AA/ELW2106AA.kicad_sym")(options "")(descr ""))
+  (lib (name "+16v")(type "KiCad")(uri "${KIPRJMOD}/lib/+16v.kicad_sym")(options "")(descr ""))
+)
