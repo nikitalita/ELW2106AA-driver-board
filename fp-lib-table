@@ -2,4 +2,6 @@
   (lib (name "SN74LVC3G07DCUT")(type "KiCad")(uri "${KIPRJMOD}/lib/SN74LVC3G07DCUT")(options "")(descr ""))
   (lib (name "ELW2106AA")(type "KiCad")(uri "${KIPRJMOD}/lib/elw2106aa")(options "")(descr ""))
   (lib (name "custom")(type "KiCad")(uri "${KIPRJMOD}/lib/custom")(options "")(descr ""))
+  (lib (name "SN74LVC245APWR")(type "KiCad")(uri "${KIPRJMOD}/lib/SN74LVC245APWR")(options "")(descr ""))
+  (lib (name "SN74LVC245ADBRG4")(type "KiCad")(uri "${KIPRJMOD}/lib/SN74LVC245ADBRG4")(options "")(descr ""))
 )
