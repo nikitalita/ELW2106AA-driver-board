@@ -12,7 +12,7 @@
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74lvc245a.pdf" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (property "JLCPCB" "C7848" (id 4) (at 36.83 -6.35 0)
+    (property "LCSC" "C7848" (id 4) (at 36.83 -6.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "SN74LVC245APWR_0_1"
